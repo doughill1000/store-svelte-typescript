@@ -1,1 +1,0 @@
-App to demonstrate how typescript can be used with a Svelte store
